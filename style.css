@@ -1,0 +1,8 @@
+#cont {
+    border: 1px solid black;
+    height: 500px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    overflow: auto;
+}
